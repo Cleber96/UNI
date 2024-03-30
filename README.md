@@ -11,3 +11,6 @@ int main() {
   return 0;
 }
 ```
+columna 1 | columna 2 | columna 3
+----------|-----------|----------
+Hola Mundo | Hola Mundo cruel | Sin Mundo
