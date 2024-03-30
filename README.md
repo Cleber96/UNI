@@ -14,3 +14,7 @@ int main() {
 columna 1 | columna 2 | columna 3
 ----------|-----------|----------
 Hola Mundo | Hola Mundo cruel | Sin Mundo
+- [x] Listado seleccionado
+- [ ] Listado no seleccionado
+- [X] probando
+- [ ] no probando
